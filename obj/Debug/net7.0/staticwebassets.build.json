@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "87hthpyWMChBU10RXScqODbDcLePMuHqOjoqyjQFUuI=",
+  "Source": "RestaurantRaterApi",
+  "BasePath": "_content/RestaurantRaterApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
